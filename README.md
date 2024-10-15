@@ -8,5 +8,28 @@
 RyanPSilvaa/RyanPSilvaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<strong>ferramentas e tecnologias</strong>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAShJREFUSEvt1b8rhXEUx/HXTbFZ5McgA4pFiQys/AWUzXAzKIOymGwGmxJSSjYbf4LVYDdaTBhkEIsf3299Hz3R7f6+Ge53eYbvc87nvD/nPOcpaPIpNDm/lgt8NYjop/DfBG2BzOG2RWVn7f9atIQBHOENW7jFJDYxmNhqJujDCK6xhhOM4hELuKhXoDcljAJTuMMTngNVvMsqr5kgL7CBA8wEgnWsoKNegrxFn9jFfqKYxhW6cyR/tmm5XdSP4dSDbFY/Uj9OQ/K91OyKLYrBx5jFeLCkB/M4wyrm0iRdhmlaDhbtYLsagheM4SH3aR2m5NGSOKLZ6cJNmKSJagRi8D3O8Y4hFFPG10QXn51YTMXE64otKrsTSrxQUqDWhCXjWv5PbjjBN42gOxnLfKPpAAAAAElFTkSuQmCC"/>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="boxicons.min.css">
+    
+</head>
+<body>
+  <header>
+    <strong><h3>Ferramentas e Tecnologias:</h3></strong><br>
+  </header>
+  <main>
+    <ul>
+      <li>HTML5</li>
+      <li>CSS3</li>
+      <li>PYTHON</li>
+      <li>NODEJs</li>
+      <li>MYSQL</li>
+      <li>TypeScript</li>
+    </ul>
+  </main>
+</body>
+</html>
