@@ -1,35 +1,33 @@
-- 👋 Hi, I’m @RyanPSilvaa
-- 👀 I’m interested in games, anime, geek universe, programming, bodybuilding, graphic design and I play volleyball.
-- 🌱 ..I’m currently learning a few programming languages ​​like JavaScript, Python, TypeScript, and C++. I'm also specializing in HTML5, CSS3, NodeJS, and MySQL.
-- 📫 How to reach me: instagram: @ryyyyyyyansaurus.js / WhatsApp: +55 (92) 98403-4103 / Linkedin: Ryan Silva
-- ⚡ Fun fact: I am very passionate about technology and with each course I finish I look for more specializations to always be up to date with the job market.
+### Olá eu sou o Ryan Pereira 💀
 
-<!---
-RyanPSilvaa/RyanPSilvaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="boxicons.min.css">
-    
-</head>
-<body>
-  <header>
-    <strong><h3>Ferramentas e Tecnologias:</h3></strong><br>
-  </header>
-  <main>
-    <ul>
-      <li>HTML5</li>
-      <li>CSS3</li>
-      <li>PYTHON</li>
-      <li>NODEJs</li>
-      <li>MYSQL</li>
-      <li>TypeScript</li>
-    </ul>
-  </main>
-</body>
-</html>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryyyyyyyansaurus.js/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-silva-0b16b6279/)
+[![Linkedin](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ryyyyyanz)
+
+![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanPSilvaa&show_icons=true&theme=ranklevel)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPSilvaa&hide_progress=compactlayout)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPSilvaa&hide_progress=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPSilvaa&hide=javascript,html)
+
+
+
+
+### Tecnologias que eu utilizo no meu dia-a-dia e tenho domínio
+
+<div>
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img align="center" alt="nodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+</div><br>
+
+Apaixonado por games, animes, universo geek, programação, fisiculturismo, design gráfico e vôlei. Atualmente aprendendo algumas linguagens de programação como JavaScript, Python, TypeScript, Java, C++. Também estou me especializando em HTML5, CSS3, NodeJS e MySQL.
+
+
