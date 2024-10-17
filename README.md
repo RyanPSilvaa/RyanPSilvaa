@@ -6,7 +6,7 @@
 
 ![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanPSilvaa&show_icons=true&theme=ranklevel)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPSilvaa&hide_progress=compactlayout)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPSilvaa&hide_progress=compact)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPSilvaa&hide_progress=true)
