@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-silva-0b16b6279/)
 [![Linkedin](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ryyyyyanz)
 
-![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanPSilvaa&show_icons=true&theme=rank)
+![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanPSilvaa&show_icons=true&theme=level)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPSilvaa&hide_progress=compact)
 
