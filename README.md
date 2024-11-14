@@ -7,7 +7,7 @@
 
 ![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanPSilvaa&show_icons=true&theme=Rank)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPSilvaa&hide_progress=DonutChartlayout)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPSilvaa&langs_count=8)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPSilvaa&hide_progress=true)
 
