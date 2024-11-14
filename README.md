@@ -1,20 +1,20 @@
 ### Olá eu sou o Ryan Pereira 💀
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryyyyyyyansaurus.js/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https.home.profile.ryan.js/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-silva-0b16b6279/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ryyyyyanz)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199511325014/)
 
-![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanPSilvaa&show_icons=true&theme=Rank)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RyanPSilvaa" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RyanPSilvaa&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPSilvaa&langs_count=8)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPSilvaa&hide_progress=true)
-
-
-
-
-
 
 
 
