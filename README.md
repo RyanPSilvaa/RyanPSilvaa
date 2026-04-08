@@ -14,8 +14,8 @@
 
 <h1 align="center">hey there 👋</h1>
 
-  <!-- ✨ Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;UI+Designer;Amante+de+Tecnologia;Sempre+aprendendo+algo+novo..." />
+<!-- ✨ Typing Animation -->
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;UI+Designer;Grapich+Designer;Coding..." />
 
 ###
 
