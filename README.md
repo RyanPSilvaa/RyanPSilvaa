@@ -26,7 +26,10 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm from Itacoatiara, Amazonas, Brazil<br><br>
+- 🔭 I’m working as a Graphic Designer with experience in digital and visual design<br>
+- 📚 I'm currently learning programming, UI/UX and web development<br>
+- ⚡ In my free time I build personal projects, study new technologies and improve my design skills </p>
 
 ###
 
