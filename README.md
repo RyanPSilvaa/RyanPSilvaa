@@ -10,15 +10,12 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
-###
-
 <h1 align="center">hey there 👋</h1>
 
 <!-- ✨ Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Developer;UI+Designer;Grapich+Designer;Coding..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Developer;UI+Designer;Graphic+Designer;Coding..." />
 </div>
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
