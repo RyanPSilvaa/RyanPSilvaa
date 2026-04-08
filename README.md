@@ -1,64 +1,40 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
-###
+  <!-- 👤 Avatar -->
+  <img src="https://avatars.githubusercontent.com/SEU_USERNAME" width="120" style="border-radius: 50%;" />
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+  <h1>👾 Ryan Pereira</h1>
 
-###
+  <!-- ✨ Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;UI+Designer;Amante+de+Tecnologia;Sempre+aprendendo+algo+novo..." />
 
-<h1 align="center">hey there 👋</h1>
+  <br><br>
 
-###
+  <!-- 🔗 Redes Sociais -->
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/SEU_DISCORD" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://steamcommunity.com/id/SEU_STEAM" target="_blank">
+    <img src="https://img.shields.io/badge/-Steam-171A21?style=for-the-badge&logo=steam&logoColor=white"/>
+  </a>
 
-<h3 align="left">👩‍💻  About Me</h3>
+  <br><br>
 
-###
+  <!-- 📊 Stats -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<p align="left">I'm from Itacoatiara, Amazonas, Brazil<br><br>
-- 🔭 I’m working as a Graphic Designer with experience in digital and visual design<br>
-- 📚 I'm currently learning programming, UI/UX and web development<br>
-- ⚡ In my free time I build personal projects, study new technologies and improve my design skills </p>
+  <br>
 
-###
+  <!-- 🔥 Streak -->
+  <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true"/>
 
-<h3 align="left">🛠 Language and tools</h3>
+  <br><br>
 
-###
+  <!-- 🧠 Skills -->
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,java,php,nodejs,git,c" />
 
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-<img width="12" />
-</div>
-
-###
-
-<h3 align="left">🔥   My skills :</h3>
-
-###
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ryanpsilva&locale=pt_BR&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
